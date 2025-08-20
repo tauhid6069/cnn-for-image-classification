@@ -33,6 +33,13 @@ The goal of this project is to build and evaluate deep learning models for image
 
 ---
 
+## 📂 Dataset
+This project uses the **CIFAR-10 dataset** (available in `tensorflow.keras.datasets`).  
+The dataset contains 60,000 color images across 10 classes, with 50,000 for training and 10,000 for testing.  
+It is automatically downloaded when running the notebook.
+
+---
+
 ## 🚀 Getting Started
 
 ### 1) Clone the repo
